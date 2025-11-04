@@ -1,0 +1,7 @@
+name = "funchat-signaling"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+ENVIRONMENT = "development"
+API_KEY = "your_secure_random_key_here"
